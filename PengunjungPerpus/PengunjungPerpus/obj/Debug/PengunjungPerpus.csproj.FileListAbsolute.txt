@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_UAS2\PengunjungPerpus\PengunjungPerpus\bin\Debug\PengunjungPerpus.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_UAS2\PengunjungPerpus\PengunjungPerpus\bin\Debug\PengunjungPerpus.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_UAS2\PengunjungPerpus\PengunjungPerpus\obj\Debug\PengunjungPerpus.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_UAS2\PengunjungPerpus\PengunjungPerpus\obj\Debug\PengunjungPerpus.MainForm.resources
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_UAS2\PengunjungPerpus\PengunjungPerpus\obj\Debug\PengunjungPerpus.csproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_UAS2\PengunjungPerpus\PengunjungPerpus\obj\Debug\PengunjungPerpus.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_UAS2\PengunjungPerpus\PengunjungPerpus\obj\Debug\PengunjungPerpus.pdb
